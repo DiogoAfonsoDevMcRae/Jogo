@@ -1,1 +1,14 @@
-Atão ta bom
+;aiu;
+
+[Update]
+Name = JDC TEST
+ProductVersion = 2.0.0
+URL = https://github.com/DiogoAfonsoNajimi/Jogo/archive/main.zip
+Size = 1005568
+SHA256 = 36517BDC95DBECA0EB148EE7246902DCA02F52AF0E4AE8100CEDB26E7CEA4521
+MD5 = 84a7d8bf05a6400ff5381fefbf7d04c1
+ServerFileName = JDC Test 2.0.0.msi
+RegistryKey = HKUD\Software\DiogoAfonsoDev\JDC TEST\Version
+Version = 2.0.0
+Description = Test
+Feature = Test
